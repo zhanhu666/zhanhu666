@@ -1,4 +1,8 @@
-### Hi there 👋
+### 😃 Hi, my name is zhanhu, I am a front-end developer and I am continuing to learn.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanhu666&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanhu666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zhanhu666/zhanhu666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
