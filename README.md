@@ -1,5 +1,9 @@
 ### 😃 Hi, my name is zhanhu, I am a front-end developer and I am continuing to learn.
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=My name is zhanhu;Continuous learning, always on the road&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000&color=397AF7FF" alt="动态介绍">
+</p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhanhu666&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhanhu666&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
